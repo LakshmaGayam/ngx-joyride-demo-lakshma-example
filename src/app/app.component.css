@@ -1,0 +1,22 @@
+.navbar {
+  height: 80px;
+  background-color: #ccc;
+}
+
+.target {
+  display: inline-block;
+  margin: 5px;
+  height: 40px;
+  width: 40px;
+  background-color: black;
+}
+
+.button{
+  cursor: pointer;
+  margin-top: 50px;
+  position: absolute;
+  left: calc(50% - 50px);
+  padding: 10px 10px;
+  width: 100px;
+  border: 1px solid;
+}
